@@ -2,7 +2,7 @@
 
 I am a full-stack software engineer passionate about building efficient and impactful solutions through code and teamwork.
 ## About Me & My Journey 🚀
-- 👨‍🎓 I am a **Senior Computer Science Student** at the New Jersey Institute of Technology
+- 👨‍🎓 I am a **Bachelor of Science in Computer Science graduate** from the New Jersey Institute of Technology
 - 💡 I enjoy working with **React, TypeScript**
 - 🎯 Currently exploring **Rust** and expanding my knowledge of **systems programming**
 - 🔐 I am interested in **security & privacy research** in software
